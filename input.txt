@@ -1,0 +1,108 @@
+inicialitzar
+4 4 4
+3
+aigua 1 A1 2
+sal 1 A2 2
+patates 2 B2 2
+
+informacio aigua
+productes A1
+productes B1
+
+carregar 2
+1 10:00:00 2
+aigua 1
+sal 1
+
+2 10:00:01 3
+aigua 5
+sal 2
+patates 4
+
+simular pagament
+2
+2 0
+1 1
+
+millor cami 4
+
+inicialitzar
+3 4 5
+18
+gelats 1.80 A1 2
+patates 2.50 A2 2
+oli 2 B1 1
+pomes 1.50 B2 2
+platans 1.50 B2 2
+mandarines 0.50 B2 1
+pollastre 3.30 C1 1
+botifarra 2.90 C1 2
+llenguado 9.50 C2 4
+salmo 8.60 C2 3
+macarrons 4 C3 2
+xocolata 2 B3 1
+aigua 1 A3 1
+vi 12.45 C4 5
+cocacola 1 B4 2
+xiclets 0.50 A4 1
+sprite 1 B4 2
+sal 1 B1 1
+
+carregar 5
+
+2 11:22:34 5
+aigua 4
+xocolata 2
+patates 2
+carn 2
+sal 1
+
+1 11:22:33 2
+aigua 1
+sal 1
+
+3 11:22:35 2
+cocacola 2
+sprite 2
+
+4 20:00:00 18
+macarrons 1
+xocolata 1
+patates 1
+gelats 1
+sal 1
+oli 1
+pollastre 1
+botifarra 1
+xiclets 1
+cocacola 1
+sprite 1
+vi 1
+llenguado 1
+salmo 1
+pomes 1
+platans 1
+mandarines 1
+aigua 1
+
+5 21:00:00 2
+pollastre 1
+patates 1
+
+simular pagament
+4
+1 0
+1 1
+2 0
+5 0
+
+
+millor cami 4
+
+millor cami 5
+
+millor cami 9
+
+millor cami 1
+
+sortir
